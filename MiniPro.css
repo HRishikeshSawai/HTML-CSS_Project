@@ -1,0 +1,10 @@
+.QuickSearch{
+    position: absolute;
+    padding: 550px;
+    top: -50%;
+    align-content: center;
+}
+.store{
+    position: absolute;
+    padding: 100px;
+}
