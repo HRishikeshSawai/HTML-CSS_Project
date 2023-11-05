@@ -5,6 +5,76 @@
     align-content: center;
 }
 .store{
+    position: static;
+    padding: 10px;
+    margin: 30px;
+    
+}
+
+.section1{
+    margin: 20px;
+}
+
+.vegetables{
     position: absolute;
-    padding: 100px;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px grey;
+    margin-left: 10px;
+}
+
+.fruits{
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px grey;
+    margin-left: 500px;
+}
+
+.grocery{
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px grey;
+    margin-left: 1000px;
+}
+
+.section2{
+    margin: 20px;
+}
+
+.pulses{
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px grey;
+    margin-left: 10px;
+}
+
+.oil{
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px grey;
+    margin-left: 500px;
+}
+
+.chips{
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px grey;
+    margin-left: 1000px;
 }
